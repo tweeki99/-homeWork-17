@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hw17\hw17\bin\Debug\hw17.exe.config
+C:\Users\Shipa\source\repos\hw17\hw17\bin\Debug\hw17.exe
+C:\Users\Shipa\source\repos\hw17\hw17\bin\Debug\hw17.pdb
+C:\Users\Shipa\source\repos\hw17\hw17\obj\Debug\hw17.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hw17\hw17\obj\Debug\hw17.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hw17\hw17\obj\Debug\hw17.exe
+C:\Users\Shipa\source\repos\hw17\hw17\obj\Debug\hw17.pdb
